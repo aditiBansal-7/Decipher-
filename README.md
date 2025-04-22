@@ -103,7 +103,7 @@ A comprehensive web application for training, analyzing, and deploying machine l
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/git-raghav/Decipher.git
+git clone https://github.com/aditiBansal-7/Decipher-.git
 cd Decipher
 ```
 
